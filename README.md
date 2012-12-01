@@ -51,4 +51,4 @@ The full list of fields follows:
 Here you can specify a date range and a symbols, and retrieve historical data for it. 
 The period can be specified as daily, monthly, weekly or dividends_only
 
-get_historical_prices(self, symbols, s_day, s_month, s_year, e_day, e_month, e_year, frequency)
+get_historical_prices(self, symbol, s_day, s_month, s_year, e_day, e_month, e_year, frequency)

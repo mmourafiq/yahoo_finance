@@ -10,7 +10,7 @@ Usage:
 1 - Getting latest quotes for a set of symbols comma separated
 ----------------------------------------------
 
-The full list of fields follows:
+The full list of possible quotes follows:
 
         get_all_quotes(self)
         get_name(self)
